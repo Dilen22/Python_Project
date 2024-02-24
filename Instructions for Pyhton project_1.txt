@@ -1,0 +1,14 @@
+Import necessary libraries:
+Start by importing the required Python Modules - openpyxl
+
+Create and load Excel file 
+
+Write a python code which can reduce Original price in column 3 by 10% and Add new value into Column 4. 
+
+Create a Bar Chart
+
+Adjust and Customize:- Modify the code as needed based on your Data and data structure. 
+
+You can customize labels, colors, and other chart properties according to your preferences.
+
+You can do this for thousands of Spreadsheet and reduce the manual work. 
